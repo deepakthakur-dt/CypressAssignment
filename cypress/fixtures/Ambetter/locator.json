@@ -1,0 +1,19 @@
+{
+    "DontHavePlanButton" : ".css-9kn7ot",
+    "state" : ".css-n7257k",
+    "clickonstate" : ".css-8rni4g",
+    "clickOnState" : "[data-testid='autocomplete-menu']",
+    "country" : "#select-2e459655-e6d3-4355-87a9-95080c6ef1d8",
+    "continuebtn" : ".css-9kn7ot",
+    "network" : "[data-testid='network-plan-0']",
+    "speciality" : "#dfed6ad4-9340-4378-aa28-1362969ccd84",
+    "closebtn" : "[name='Close']",
+    "location" : "[data-testid='locationInput']",
+    "togglebtn" : ".css-18oxkhi",
+    "advanceSearch" : "[href='/advanced-search']",
+    "providerSpeciality" : "[placeholder='Ex. OBGYN, Internist']",
+    "dropdown" : "[role='listbox']",
+    "submit" : ".css-1n6muco"
+    
+
+}

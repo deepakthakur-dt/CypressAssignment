@@ -1,0 +1,101 @@
+{
+    "Login" : { "username" : "[data-test='username']",
+     "password" : "[data-test='password']",
+     "loginButton" : "[data-test='login-button']" },
+
+    
+     "firstitem" : ".inventory_item",
+     "addtocartbtn" : "#add-to-cart-sauce-labs-backpack",
+     "itemtitle" : ".inventory_item_name",
+     "itemprice" : ".inventory_item_price",
+     "carticon" : ".shopping_cart_link",
+
+     "cartpage" :{"title" : ".inventory_item_name",
+                  "price" : ".inventory_item_price"
+                },
+
+                "paymentPage" :{"title" : ".inventory_item_name",
+                  "price" : ".inventory_item_price"
+                },
+
+    "removebtn" : "#remove-sauce-labs-backpack",
+    "removeditemincart" : ".removed_cart_item",
+    "checkoutbtn" : "[name='checkout']",
+
+    "userdetails" : {
+          "firstName" : "#first-name",
+          "lastName" : "#last-name",
+          "postalCode" : "#postal-code"
+    },
+
+    "continuebtn" : "#continue",
+    "payinfo": ".summary_value_label",
+    "totalvalue" : ".summary_total_label",
+
+
+
+    "signInBtn" : ".login",
+    "enterEmail" : "#email_create",
+    "createAccountBtn" : "#SubmitCreate",
+    "gender" : "#id_gender1",
+
+    "personalInformation" : {
+            
+            "firstname" : "#customer_firstname",
+            "lastname" : "#customer_lastname"
+            
+            
+    },
+
+    "password" : "#passwd",
+
+            "Dob-day" : "#days",
+            "Dob=month" : "#months",
+            "Dob-year" : "#years",
+
+    "Address" : {
+            "firstname" : "#firstname",
+            "lastname" : "#lastname",
+            "address" : "#address1",
+            "city" : "#city"
+            
+            
+    },
+
+    "state" : "#id_state",
+    "zipCode" : "#postcode",
+            "mobile" : "#phone_mobile",
+            "alias" : "#alias",
+            "register" : "#submitAccount",
+
+    "homepage" : ".account",
+
+    "Women" : ".sf-with-ul",
+    "eveningdress" : "[title='Evening Dresses']",
+    "firstItem" : ".product-container",
+    "item-name" : ".product-name",
+    "item-price" : ".price",
+    "itemprice1" : ".price product-price",
+    "addToCart" : ".exclusive",
+    "proceedCheckoutBtn" : "[title='Proceed to checkout']",
+
+    "payment-Page" : {
+        "item_price" : ".price",
+        "item_name" : ".product-name"
+    },
+
+    "signIn" : ".login",
+    "email" : "#email",
+    "pass" : "#passwd",
+    "submit" : "#SubmitLogin",
+
+    "proceedToPayment" : "[name='processAddress']",
+    "checkbox" : "#cgv",
+    "proceedToPayment2" : "[name='processCarrier']",
+    "viewCart" : ".cart_block",
+    "removeTheProduct" : "[title='remove this product from my cart']",
+    "emptyCartMessage" : ".alert"
+
+
+    
+}
